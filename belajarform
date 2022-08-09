@@ -41,7 +41,7 @@
             <input type="checkbox" value="main game" /> main game
             <br>
             <div>Alamat</div>
-            <textarea placeholder="ex pagaden">
+            <textarea placeholder="ex belendung">
         </textarea>
             <br>
             <button type="submit">simpan</button>
